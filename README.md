@@ -13,7 +13,7 @@ git 연습을 위하 나의 첫 레포
 
 ## Euler's Formula
 
-$e^{i*theta} = \\cos(theta) + i*sin(theta)$
+$e^{i\theta} = \cos\theta) + i\sin\theta$
 
 ## How to start(Quickstart)
 
